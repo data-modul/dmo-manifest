@@ -22,7 +22,7 @@
 	<project name="meta-dmo"
 		 path="poky/meta-dmo"
 		 remote="github-data-modul"
-		 revision="15e883c158b6c1d5e472d2a4cb158241edf83567" />
+		 revision="7fa61f63fd7b7b71cbf5d2ffbf469d9e928bd9a0" />
 	<project name="meta-fsl-arm"
 		 path="poky/meta-fsl-arm"
 		 remote="github-data-modul"
